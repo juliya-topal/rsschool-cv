@@ -6,9 +6,9 @@
     </div>
 
 <div>
- <h2>
+ <h3>
             Contact information:
-</h2>
+</h3>
         <p> Phone: +38 097 6572925 <br>
             E-mail: Juliya.topal@gmail.com <br>
             Telegram: @juliyatopal <br>
@@ -29,7 +29,7 @@ Skills and Proficiency:
  </ul>
 
 <h3>Code Examples </h3>
-<pre>
+<h3>
 private static void Human()
     {
         int max = 100;
@@ -61,7 +61,7 @@ private static void Human()
                 break;
             }
             tries++;
-</pre>
+</h3>
 
 
  <h3>
