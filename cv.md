@@ -71,7 +71,13 @@
   <li> Udemy: C# Programming: From Beginner to Expert</li>
   <li> RS Schools Course «JavaScript/Front-end» (in progress)</li>
  </ul>
-
+<h3>
+     Languages:
+ </h3>
+   <ul>
+    <li> English - Intermediate</li>
+    <li> Ukrainian - Native</li>
+   </ul>
 
 </div>
 
