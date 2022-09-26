@@ -28,7 +28,7 @@
      <li> C#</li>
 </ul>
 
-<h3>Code Examples </h3>
+<h2>Code Examples </h2>
  <pre>
  private static void Human()
     {
