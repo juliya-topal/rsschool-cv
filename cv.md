@@ -6,9 +6,9 @@
     </div>
 
 <div>
- <h3>
+ <h2>
             Contact information:
-</h3>
+</h2>
         <p> Phone: +38 097 6572925 <br>
             E-mail: Juliya.topal@gmail.com <br>
             Telegram: @juliyatopal <br>
