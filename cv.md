@@ -3,34 +3,34 @@
     <h1>Juliya Topal</h1>
      <div>
         <h2>Student Frontend Developer</h2>
-    </div>
+     </div>
 
-<div>
- <h3>
+ <div>
+  <h3>
             Contact information:
-</h3>
+  </h3>
         <p> Phone: +38 097 6572925 <br>
             E-mail: Juliya.topal@gmail.com <br>
             Telegram: @juliyatopal <br>
         </p>
 
-<h4>I have been working in finance since 2005. Started as an accountant and progressed to the position of
+   <h4>I have been working in finance since 2005. Started as an accountant and progressed to the position of
             Financial Director. At the moment I am working on optimizing the accounting process.
-</h4>
-<h3>
-Skills and Proficiency:
-</h3>
- <ul>
+   </h4>
+   <h3>
+     Skills and Proficiency:
+   </h3>
+<ul>
 
-  <li> HTML5, CSS3</li>
-  <li> JavaScript Basics</li>
-  <li> Git, GitHub</li>
-  <li> C#</li>
- </ul>
+<li> HTML5, CSS3</li>
+     <li> JavaScript Basics</li>
+     <li> Git, GitHub</li>
+     <li> C#</li>
+</ul>
 
-<pre>Code Examples </h3>
-<pre>
-private static void Human()
+<h3>Code Examples </h3>
+ <pre>
+ private static void Human()
     {
         int max = 100;
         int min = 0;
@@ -61,17 +61,23 @@ private static void Human()
                 break;
             }
             tries++;
-</pre>
+ </pre>
 
 
  <h3>
-            Courses:
+    Courses:
  </h3>
  <ul>
   <li> Udemy: C# Programming: From Beginner to Expert</li>
   <li> RS Schools Course «JavaScript/Front-end» (in progress)</li>
  </ul>
-
+ <h3>
+     Languages:
+ </h3>
+   <ul>
+    <li> English - Intermediate</li>
+    <li> Ukrainian - Native</li>
+   </ul>
 
 </div>
 
