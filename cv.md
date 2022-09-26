@@ -28,8 +28,8 @@ Skills and Proficiency:
   <li> C#</li>
  </ul>
 
-<h3>Code Examples </h3>
-<h3>
+<pre>Code Examples </h3>
+<pre>
 private static void Human()
     {
         int max = 100;
@@ -61,7 +61,7 @@ private static void Human()
                 break;
             }
             tries++;
-</h3>
+</pre>
 
 
  <h3>
