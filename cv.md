@@ -29,7 +29,7 @@
 </ul>
 
 <h3>Code Examples </h3>
- <pre>
+ <h3>
  private static void Human()
     {
         int max = 100;
@@ -61,7 +61,7 @@
                 break;
             }
             tries++;
- </pre>
+ </h3>
 
 
  <h3>
