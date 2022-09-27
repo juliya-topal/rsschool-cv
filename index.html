@@ -32,7 +32,41 @@
             <li> Git, GitHub</li>
             <li> C#</li>
         </ul>
+        <h3>
+            Code Examples:
+            </h3>
+        <pre>
+            private static void Human()
+    {
+        int max = 100;
+        int min = 0;
+        int tries = 0;
+        int maxTries = 6;
+    Console.WriteLine("Enter the number");
+    int number = Convert.ToInt32(Console.ReadLine());
+    int lastGues = -1;
 
+    while (lastGues != number && tries < maxTries)
+    {
+        lastGues = (max + min) / 2;
+        Console.WriteLine($"Did you guess this number? L/B or True (T)? {lastGues} ");
+        string answer = Console.ReadLine();
+        string inputNew = answer.ToUpper();
+        if (inputNew == "L")
+        {
+            max = lastGues;
+        }
+        else if (inputNew == "B")
+        {
+            min = lastGues;
+        }
+        else
+        {
+            Console.WriteLine($"Спасибо за игру ");
+            break;
+        }
+        tries++;
+        </pre>
         <h3>
             Courses:
         </h3>
